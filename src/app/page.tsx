@@ -18,94 +18,14 @@ export default function Home() {
 
       <div className={styles.grid}>
         <a
-          href="/projects/happybird"
+          href="/projects/perlin"
           className={styles.card}
           rel="noopener noreferrer"
         >
           <h2>
-            Happy Bird <span>-&gt;</span>
+            Perlin noise<span>-&gt;</span>
           </h2>
-          <p>My first project.</p>
-        </a>
-        <a
-          href="/projects/happybird"
-          className={styles.card}
-          rel="noopener noreferrer"
-        >
-          <h2>
-            Happy Bord <span>-&gt;</span>
-          </h2>
-          <p>My first project.</p>
-        </a>
-        <a
-          href="/projects/happybird"
-          className={styles.card}
-          rel="noopener noreferrer"
-        >
-          <h2>
-            Happy Bird <span>-&gt;</span>
-          </h2>
-          <p>My first project.</p>
-        </a>
-        <a
-          href="/projects/happybird"
-          className={styles.card}
-          rel="noopener noreferrer"
-        >
-          <h2>
-            Happy Bird <span>-&gt;</span>
-          </h2>
-          <p>My first project.</p>
-        </a>
-        <a
-          href="/projects/happybird"
-          className={styles.card}
-          rel="noopener noreferrer"
-        >
-          <h2>
-            Happy Bird <span>-&gt;</span>
-          </h2>
-          <p>My first project.</p>
-        </a>
-        <a
-          href="/projects/happybird"
-          className={styles.card}
-          rel="noopener noreferrer"
-        >
-          <h2>
-            Happy Bird <span>-&gt;</span>
-          </h2>
-          <p>My first project.</p>
-        </a>
-        <a
-          href="/projects/happybird"
-          className={styles.card}
-          rel="noopener noreferrer"
-        >
-          <h2>
-            Happy Bird <span>-&gt;</span>
-          </h2>
-          <p>My first project.</p>
-        </a>
-        <a
-          href="/projects/happybird"
-          className={styles.card}
-          rel="noopener noreferrer"
-        >
-          <h2>
-            Happy Bird <span>-&gt;</span>
-          </h2>
-          <p>My first project.</p>
-        </a>
-        <a
-          href="/projects/happybird"
-          className={styles.card}
-          rel="noopener noreferrer"
-        >
-          <h2>
-            Happy Bird <span>-&gt;</span>
-          </h2>
-          <p>My first project.</p>
+          <p>Noise texture used to render pseudo-random procedural terrain generation.</p>
         </a>
       </div>
     </main>
