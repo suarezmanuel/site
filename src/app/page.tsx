@@ -33,7 +33,7 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2>
-            Happy Bird <span>-&gt;</span>
+            Happy Bord <span>-&gt;</span>
           </h2>
           <p>My first project.</p>
         </a>
